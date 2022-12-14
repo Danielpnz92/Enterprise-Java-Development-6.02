@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab-6.02-Eureka.iml" filepath="$PROJECT_DIR$/.idea/Lab-6.02-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-6.02.DS/discovery-service.iml" filepath="$PROJECT_DIR$/Lab-6.02.DS/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-6.02.3/movie-catalog-service.iml" filepath="$PROJECT_DIR$/Lab-6.02.3/movie-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-6.02/movie-info-service.iml" filepath="$PROJECT_DIR$/Lab-6.02/movie-info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab-6.02.2/movie-info-service (1).iml" filepath="$PROJECT_DIR$/Lab-6.02.2/movie-info-service (1).iml" />
+    </modules>
+  </component>
+</project>
